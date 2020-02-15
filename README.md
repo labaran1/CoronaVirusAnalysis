@@ -13,5 +13,5 @@ Exploratory Data Analysis on CoronaVirus dataset from kaggle
  seaborn 
  
  
- ##Authors 
- @labaran1 (labaran.me)
+ ## Authors 
+ [@labaran1](labaran.me)
