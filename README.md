@@ -14,4 +14,4 @@ Exploratory Data Analysis on CoronaVirus dataset from kaggle
  
  
  ## Authors 
- [@labaran1](labaran.me)
+ @labaran1 (www.labaran.me)
